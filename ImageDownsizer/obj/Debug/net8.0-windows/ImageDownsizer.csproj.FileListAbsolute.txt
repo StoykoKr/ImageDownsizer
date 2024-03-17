@@ -1,0 +1,16 @@
+D:\Projects\VS\ImageDownsizer\ImageDownsizer\bin\Debug\net8.0-windows\ImageDownsizer.exe
+D:\Projects\VS\ImageDownsizer\ImageDownsizer\bin\Debug\net8.0-windows\ImageDownsizer.deps.json
+D:\Projects\VS\ImageDownsizer\ImageDownsizer\bin\Debug\net8.0-windows\ImageDownsizer.runtimeconfig.json
+D:\Projects\VS\ImageDownsizer\ImageDownsizer\bin\Debug\net8.0-windows\ImageDownsizer.dll
+D:\Projects\VS\ImageDownsizer\ImageDownsizer\bin\Debug\net8.0-windows\ImageDownsizer.pdb
+D:\Projects\VS\ImageDownsizer\ImageDownsizer\obj\Debug\net8.0-windows\ImageDownsizer.Form1.resources
+D:\Projects\VS\ImageDownsizer\ImageDownsizer\obj\Debug\net8.0-windows\ImageDownsizer.csproj.GenerateResource.cache
+D:\Projects\VS\ImageDownsizer\ImageDownsizer\obj\Debug\net8.0-windows\ImageDownsizer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\VS\ImageDownsizer\ImageDownsizer\obj\Debug\net8.0-windows\ImageDownsizer.AssemblyInfoInputs.cache
+D:\Projects\VS\ImageDownsizer\ImageDownsizer\obj\Debug\net8.0-windows\ImageDownsizer.AssemblyInfo.cs
+D:\Projects\VS\ImageDownsizer\ImageDownsizer\obj\Debug\net8.0-windows\ImageDownsizer.csproj.CoreCompileInputs.cache
+D:\Projects\VS\ImageDownsizer\ImageDownsizer\obj\Debug\net8.0-windows\ImageDownsizer.dll
+D:\Projects\VS\ImageDownsizer\ImageDownsizer\obj\Debug\net8.0-windows\refint\ImageDownsizer.dll
+D:\Projects\VS\ImageDownsizer\ImageDownsizer\obj\Debug\net8.0-windows\ImageDownsizer.pdb
+D:\Projects\VS\ImageDownsizer\ImageDownsizer\obj\Debug\net8.0-windows\ImageDownsizer.genruntimeconfig.cache
+D:\Projects\VS\ImageDownsizer\ImageDownsizer\obj\Debug\net8.0-windows\ref\ImageDownsizer.dll
